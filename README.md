@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkhupo&count_private=true&show_icons=true&theme=highcontrast)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gkhupo&repo=github-readme-stats)](https://github.com/gkhupo/github-readme-stats)
+
 <!--
 **Gkhupo/Gkhupo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
