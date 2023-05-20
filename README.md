@@ -3,6 +3,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkhupo&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhupo)](https://github.com/Gkhupo/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhupo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Gkhupo/Gkhupo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
