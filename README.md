@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkhupo&count_private=true&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhupo)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhupo)](https://github.com/Gkhupo/DataRecodeModule)
 
 
 <!--
